@@ -1,7 +1,7 @@
 # Rafael Lacerda
 
 **Desenvolvedor Front-End** | Java | HTML | CSS | C | GitHub | ADS  
-São Paulo, São Paulo, Brasil  
+São Paulo, SP, Brasil  
 
 ---
 
