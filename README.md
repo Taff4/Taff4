@@ -1,6 +1,6 @@
 # Rafael Lacerda
 
-**Desenvolvedor Front-End** | Javascript | HTML | CSS | C | ADS  
+**Desenvolvedor Front-End** 
 São Paulo, SP, Brasil  
 
 ---
