@@ -1,7 +1,8 @@
 # Rafael Lacerda
 
 **Desenvolvedor Front-End** 
-**São Paulo, SP, Brasil**
+
+São Paulo,Brasil.
 
 ---
 
