@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-End** 
 
-São Paulo, Brasil.
+São Paulo, Brasil
 
 ---
 
