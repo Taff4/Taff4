@@ -1,7 +1,7 @@
 # Rafael Lacerda  
 **Desenvolvedor Front-End**  
 
-🌍 São Paulo, Brasil  
+ São Paulo, Brasil  
 
 ### 👋 Olá, eu sou @Taff4  
 👀 Estou interessado em desenvolvimento web e novas tecnologias.  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" alt="C" />
